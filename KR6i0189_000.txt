@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說龍施女經
+#+DATE: 2015-08-30 20:12:15.827857
+#+PROPERTY: JUAN 0
